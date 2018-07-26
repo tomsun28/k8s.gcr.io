@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/kube-controller-manager-amd64:latest
+FROM gcr.io/google-containers/kube-controller-manager-amd64:v1.10.6
 
 MAINTAINER usthe.com

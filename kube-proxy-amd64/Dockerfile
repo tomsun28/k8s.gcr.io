@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/kube-proxy-amd64:latest
+FROM gcr.io/google-containers/kube-proxy-amd64:v1:10.6
 
 MAINTAINER usthe.com

@@ -1,3 +1,3 @@
-FROM gcr.io/google-containers/coredns:1.1.3
+FROM gcr.io/google-containers/coredns:1.2.6
 
 MAINTAINER usthe.com
